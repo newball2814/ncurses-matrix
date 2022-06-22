@@ -2,6 +2,6 @@
 
 ## Build intructions
 
-> make
+> make <br>
 > ./main 
 
