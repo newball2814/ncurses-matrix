@@ -2,6 +2,8 @@
 
 ## Build intructions
 
-> make <br>
-> ./main 
+> - make <br>
+
+## Run code
+> - ./main 
 
